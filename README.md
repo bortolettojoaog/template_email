@@ -1,5 +1,5 @@
 # template_email
-Basic email template
+E-mail template
 
 ## Icons
 
