@@ -1,5 +1,12 @@
 # template_email
+
 Basic email template
+
+## Screenshots
+
+<p align="center">
+    <img src="https://github.com/bortolettojoaog/template_email/blob/master/images/template1.jpg?raw=true" alt="With Menu" />
+</p>
 
 ## Icons
 
