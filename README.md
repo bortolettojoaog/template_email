@@ -1,6 +1,10 @@
 # template_email
+<<<<<<< HEAD
 
 Basic email template
+=======
+E-mail template
+>>>>>>> e34d06f31b114fe5cb30e0501763b78636e1e97a
 
 ## Screenshots
 
